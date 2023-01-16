@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "name": "Walter White",
+        "age": 50,
+        "occupation": "Chemist",
+        "address": "123 Main St, Albuquerque, NM, 87102,"
+    },
+    {   "id": 2,
+        "name": "Jesse Pinkman",
+        "age": 27,
+        "occupation": "Meth Dealer",
+        "address":
+             "4321 Main St, Albuquerque, NM, 87102, "
+
+
+    },
+    {   "id": 3,
+        "name": "Saul Goodman",
+        "age": 45,
+        "occupation": "Lawyer",
+        "address": "1234 Main St, Albuquerque, NM, 87102, "
+
+    },
+    {
+        "id": 4,
+        "name": "Gus Fring",
+        "age": 55,
+        "occupation": "Meth Kingpin",
+        "address": "456 Main St, Albuquerque, NM, 87102, "
+
+    },
+    {
+        "id": 5,
+        "name": "Mike Ehrmantraut",
+        "age": 50,
+        "occupation": "Meth Enforcer",
+        "address": "4312 Main St, Albuquerque, NM, 87102, "
+
+    },
+    {
+        "id": 6,
+        "name": "Hank Schrader",
+        "age": 50,
+        "occupation": "DEA Agent",
+        "address": "1567 Main St, Albuquerque, NM, 87102, "
+    }
+]
+

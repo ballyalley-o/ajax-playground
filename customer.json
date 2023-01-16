@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "Bally Lomibao",
+    "age": "33",
+    "occupation": "Software Engineer",
+    "address": {
+        "address1": "Brgy. 1",
+        "address2": "San Jose",
+        "city": "Batangas",
+        "state": "Batangas",
+        "country": "Philippines"
+    }
+
+}
